@@ -12,3 +12,4 @@ Create custom project projecting progamming.
 Configure your project setting up
 ![3](images/bandicam%202022-12-15%2016-31-22-942.jpg)
 ![4](images/bandicam%202022-12-15%2016-31-40-813.jpg)
+Tap to Finsh.
