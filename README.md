@@ -9,3 +9,6 @@ Create custom project projecting progamming.
 #### Steps:
 1. Set to empty name to ChatView_Outline2.
 2. Tap to Next.
+Configure your project setting up
+![3](images/bandicam%202022-12-15%2016-31-22-942.jpg)
+![4](images/bandicam%202022-12-15%2016-31-40-813.jpg)
